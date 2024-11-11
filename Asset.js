@@ -1,5 +1,3 @@
-mainasset.js
-
 // asset.js
 export const assets = [
   { id: 1, name: 'AAPL', type: 'stock', price: 150, quantity: 10 },
