@@ -12,3 +12,4 @@ export function getPortfolioAllocation() {
     allocation: ((mainasset.price * mainasset.quantity) / totalValue * 100).toFixed(2) + '%'
   }));
 }
+
